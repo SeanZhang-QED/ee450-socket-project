@@ -1,6 +1,6 @@
 Full name: 	Xuan Zhang
 
-Student ID:	5909840165
+Student ID:	----------
 
 1. What you have done in the assignment?
 I have implemented a distributed system with five components, including client, scheduler, hospitalA, hospitalB, and hospitalC.
